@@ -1,24 +1,12 @@
-# 🎀 Hey, I'm Prakthuksha Shree!
+# Cybersecurity First Year Tasks
 
-### ✦ AIML Student | Python Beginner | Creative Tech ✦
+Name:  Hey, I'm Prakthuksha Shree!
 
-> Welcome to my little corner of GitHub ♡
-> ## 🎀 About Me
 
-- 🤖 AIML student
-- 🐍 Currently learning Python
-- 🎮 I like making interactive projects
-- 🧶 Crochet is one of my hobbies
-- ✨ Learning something new every day
-## 💻 Tech Stack
+TryHackMe Profile: https://tryhackme.com/p/prakthukshavijayabala
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-## 🎮 Featured Projects
+## Task 1– TryHackMe Challenge Walkthrough
+Completed the TryHackMe networking rooms and documented the steps followed and key learnings.
 
-### 🩸 Blood Management System
-A Python and MySQL-based system designed to manage blood donor and recipient information efficiently.
-
-### 🎀 Personal Portfolio Website
-An interactive portfolio website showcasing my projects and skills.
-https://prakthukshashree.github.io/portfolio-website/
+## Task 2- Core Security Concepts Explainer
+Explained the CIA Triad and two additional cybersecurity concepts using real-world scenarios and original diagrams.
